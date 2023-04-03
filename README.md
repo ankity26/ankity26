@@ -37,7 +37,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://www.linkedin.com/in/ankit-yadav-757546253/"></a>
-<a href="https://twitter.com/ankity26"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ankity2608@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankity2608@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ankit-yadav-757546253/"><img alt="LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg"></a>&nbsp
+<a href="https://twitter.com/ankity26"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg"></a>&nbsp
+<a href="mailto:ankity2608@gmail.com"><img alt="Email" src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg"></a>
 </p>
